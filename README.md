@@ -21,6 +21,9 @@ Welcome to my profile!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-l-shankar-74b368251)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/klsxgh)
+[![Thangs](https://img.shields.io/badge/Thangs-0077B6.svg?&style=for-the-badge&logo=thangs&logoColor=white)](https://thangs.com/designer/klsxthangs)
+[![Printables](https://img.shields.io/badge/Printables-FFA500.svg?&style=for-the-badge&logo=printables&logoColor=white)](https://www.printables.com/@KS_2239821/models)
+
 
 ## 📊 GitHub Stats:
 | GitHub Stats | Streak | Top Languages |
