@@ -17,6 +17,7 @@ Welcome to my profile!
 ![SQL](https://img.shields.io/badge/SQL-%230074D4.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600.svg?&style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-l-shankar-74b368251)
